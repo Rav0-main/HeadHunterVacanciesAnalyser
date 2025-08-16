@@ -1,0 +1,20 @@
+{
+    "cityId":1,
+    "vacancies":[
+        
+    ],
+    "keywords":{
+        
+    },
+    "graphicNames":{
+        
+    },
+    "colors":{
+        
+    },
+    "needDrawPoints":{
+        
+    },
+    "minPayInMonthInRub": 0,
+    "maxPayInMonthInRub": 10000000
+}
